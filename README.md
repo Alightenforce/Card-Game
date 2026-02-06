@@ -1,7 +1,7 @@
 # CLI-based Card Game
 A Python-based CLI game that includes an authentication system, local data persistence, and leaderboard sorting
 ###
-Key Features:
+# Key Features:
 
 User registration that validates unique usernames in a text file
 
@@ -10,7 +10,7 @@ Password strength validation that uses Regular Expressions to enforce policy (Mi
 Symmetric Encryption that implements a Rotational Cipher on user passwords before storage
 
 ###
-Game Logic:
+# Game Logic:
 
 Color Hierarchy:
 
@@ -24,19 +24,19 @@ If colours match, the higher number wins
 
 
 ###
-Data Persistence:
+# Data Persistence:
 
 Stores user credentials in "UserData.txt"
 
 Serializes game results into "ResultLogs.txt
 
 ###
-Prerequisites:
+# Prerequisites:
 
 Python version 3
 
 ###
-How to play:
+# How to play:
 
 1. Sign up: create an account for both players
 
